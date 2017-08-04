@@ -23,7 +23,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.mescedia.edi</groupId>
 	<artifactId>karaf-edi</artifactId>
-	<version>1.1.6</version>
+	<version>1.1.6.1</version>
 	<packaging>pom</packaging>
 	<url>https://www.mescedia.com</url>
 	<name>mescedia :: Open Source EDI server [apache-karaf] </name>
@@ -619,10 +619,10 @@
 						<artifactItem>
 							<groupId>org.mescedia.edi</groupId>
 							<artifactId>branding</artifactId>
-							<version>1.1.6</version>
+							<version>1.1.6.1</version>
 							<outputDirectory>target/dependencies/apache-karaf-${karaf.version}/lib/ext
 							</outputDirectory>
-							<destFileName>karaf-org.mescedia.edi.branding-1.1.6.jar
+							<destFileName>karaf-org.mescedia.edi.branding-1.1.6.1.jar
 							</destFileName>
 						</artifactItem>
 						
@@ -727,12 +727,11 @@
 							<goal>copy-resources</goal>
 						</goals>
 						<configuration>
-							<outputDirectory>${install.target}/apache-karaf-${karaf.version}/lib/ext</outputDirectory>
-							 <destFileName>karaf-unedifact-bindingconfigs.jar</destFileName>
+							<outputDirectory>${install.target}/apache-karaf-${karaf.version}/lib/ext</outputDirectory>							 
 							<resources>
 								<resource>
 									<directory>src/bindingconfigs</directory>
-									<include>karaf-unedifact-bindingconfigs.jar</include>
+									<include>**/*.jar</include>
 								</resource>
 							</resources>
 						</configuration>

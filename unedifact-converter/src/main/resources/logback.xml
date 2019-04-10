@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" scanPeriod="60 seconds" warn="false">
+	
+	<property name="log.home" value="${LOG_PATH}"/>
+	<property name="log.file" value="edi"/>
+	
+	<!-- 日志输出格式 -->
+	<!--<property name="ENCODER_PATTERN" value="%d{MM.dd HH:mm:ss.SSS} %-5level %logger{20} - [%M] %msg%n- %caller{1}" />-->
+	<property name="FULL_ENCODER_PATTERN" value="%d{MM.dd HH:mm:ss.SSS} %-5level %logger{20}-[%M] %msg%n"/>
+	<property name="SIMPLE_ENCODER_PATTERN" value="%d{HH:mm:ss} %-5level %logger{20} %msg%n"/>
+	<property name="THREAD_ENCODER_PATTEN" value="%-4relative [%thread] %-5level %logger{35} - %msg%n"/>
+	
+	<!-- console output -->
+	<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder charset="GBK">
+			<pattern>${SIMPLE_ENCODER_PATTERN}</pattern>
+		</encoder>
+	</appender>
+	
+	
+	<appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>${log.home}${log.file}.log</file>
+		<rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+			<fileNamePattern>{log.file}.%i.log.zip</fileNamePattern>
+			<minIndex>1</minIndex>
+			<maxIndex>3</maxIndex>
+		</rollingPolicy>
+		　　　　　　
+		<triggeringPolicy class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+			<maxFileSize>5MB</maxFileSize>
+		</triggeringPolicy>
+		　　　　　　
+		<encoder>
+			<pattern>{THREAD_ENCODER_PATTEN}</pattern>
+		</encoder>
+		　　　
+	</appender>
+	<!-- 按日期新启log文件 -->
+	
+	<logger name="org.milyn" additivity="false">
+		<level value="info"/>
+		<appender-ref ref="CONSOLE"/>
+	</logger>
+	
+	<root level="DEBUG">
+		<appender-ref ref="CONSOLE"/>
+		<appender-ref ref="FILE"/>
+	</root>
+
+</configuration>

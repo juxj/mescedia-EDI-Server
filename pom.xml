@@ -39,7 +39,7 @@
 	
          <repository>
             <id>localrepository</id>
-             <url>file://~/.m2/repository</url>             
+             <url>file://~/.m2/repository</url>
          </repository>
          <repository>
             <id>maven repository</id>

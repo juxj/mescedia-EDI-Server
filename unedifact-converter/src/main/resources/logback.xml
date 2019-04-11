@@ -3,7 +3,6 @@
 	
 	<property name="log.home" value="${LOG_PATH}"/>
 	<property name="log.file" value="edi"/>
-	
 	<!-- 日志输出格式 -->
 	<!--<property name="ENCODER_PATTERN" value="%d{MM.dd HH:mm:ss.SSS} %-5level %logger{20} - [%M] %msg%n- %caller{1}" />-->
 	<property name="FULL_ENCODER_PATTERN" value="%d{MM.dd HH:mm:ss.SSS} %-5level %logger{20}-[%M] %msg%n"/>
@@ -27,14 +26,14 @@
 		</rollingPolicy>
 		　　　　　　
 		<triggeringPolicy class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
-			<maxFileSize>5MB</maxFileSize>
+			<maxFileSize>1MB</maxFileSize>
 		</triggeringPolicy>
 		　　　　　　
 		<encoder>
 			<pattern>{THREAD_ENCODER_PATTEN}</pattern>
 		</encoder>
-		　　　
 	</appender>
+	
 	<!-- 按日期新启log文件 -->
 	
 	<logger name="org.milyn" additivity="false">

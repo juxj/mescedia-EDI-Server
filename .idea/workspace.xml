@@ -2,352 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65fa6970-7327-47c4-9adc-83fd078e2e73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/karaf-edi/src/bindingconfigs/LOG_PATH_IS_UNDEFINEDedi.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/assembly/assembly.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/main/EdifactConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-APERAK-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-AUTHOR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-BALANC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-BANSTA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-BAPLIE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-BERMAN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-BMISRM-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-BOPBNK-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-BOPCUS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-BOPDIR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-BOPINF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-BUSCRD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CALINF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CASINT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CASRES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CHACCO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CLASET-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CNTCND-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COACSU-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COARRI-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CODECO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CODENO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COEDOR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COHAOR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COLREQ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COMDIS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CONAPW-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CONDPV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CONDRA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CONDRO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CONEST-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CONITT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CONPVA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CONQVA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CONRPW-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CONTEN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CONWQD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COPARN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COPAYM-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COPINO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COPRAR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COREOR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COSTCO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-COSTOR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CREADV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CREEXT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CREMUL-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CUSCAR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CUSDEC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CUSEXP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CUSPED-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CUSREP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-CUSRES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DAPLOS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DEBADV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DEBMUL-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DEBREC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DELFOR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DELJIT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DESADV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DESTIM-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DGRECA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DIRDEB-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DIRDEF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DMRDEF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DMSTAT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DOCADV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DOCAMA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DOCAMI-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DOCAMR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DOCAPP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DOCARE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-DOCINF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-ENTREC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-FINCAN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-FINPAY-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-FINSTA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-GENRAL-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-GESMES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-HANMOV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-ICASRP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-ICSOLI-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFCSUM-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTCCA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTDGN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTFCC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTICL-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTMAN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTMBC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTMBF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTMBP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTMCA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTMCS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTMIN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTRIN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTSAI-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTSTA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IFTSTQ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IMPDEF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-INFCON-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-INFENT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-INSDES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-INSPRE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-INSREQ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-INSRPT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-INVOIC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-INVRPT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IPPOAD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-IPPOMO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-ISENDS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-ITRRPT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-JAPRES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-JINFDE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-JOBAPP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-JOBCON-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-JOBMOD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-JOBOFF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-JUPREQ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-LEDGER-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-LREACT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-LRECLM-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-MEDPID-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-MEDPRE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-MEDREQ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-MEDRPT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-MEDRUC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-MEQPOS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-MOVINS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-MSCONS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-ORDCHG-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-ORDERS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-ORDRSP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-OSTENQ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-OSTRPT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PARTIN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PAXLST-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PAYDUC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PAYEXT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PAYMUL-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PAYORD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PRICAT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PRIHIS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PROCST-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PRODAT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PRODEX-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PROINQ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PROSRV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PROTAP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-PRPAID-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-QALITY-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-QUOTES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RDRMES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-REBORD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RECADV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RECALC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RECECO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RECLAM-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RECORD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-REGENT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RELIST-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-REMADV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-REPREM-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-REQDOC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-REQOTE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RESETT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RESMSG-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RETACC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RETANN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RETINS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-RPCALL-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-SAFHAZ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-SANCRT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-SLSFCT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-SLSRPT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-SOCADE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-SSIMOD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-SSRECH-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-SSREGW-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-STATAC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-STLRPT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-SUPCOT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-SUPMAN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-SUPRES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-TANSTA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-TAXCON-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-TPFREP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-UTILMD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-UTILTS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-VATDEC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-VESDEP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-WASDIS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-WKGRDC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D07A/D07A-WKGRRE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-APERAK-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-AUTHOR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-BANSTA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-BAPLIE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-BAPLTE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-BOPBNK-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-BOPCUS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-BOPDIR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-BOPINF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CALINF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CASINT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CASRES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-COARRI-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CODECO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CODENO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-COEDOR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-COHAOR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-COMDIS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CONAPW-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CONDPV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CONDRA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CONDRO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CONEST-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CONITT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CONPVA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CONQVA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CONRPW-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CONTEN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CONWQD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-COPARN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-COPINO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-COPRAR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-COREOR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-COSTCO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-COSTOR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CREADV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CREEXT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CREMUL-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CUSCAR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CUSDEC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CUSEXP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CUSREP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-CUSRES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DEBADV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DEBMUL-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DELFOR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DELJIT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DESADV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DESTIM-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DGRECA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DIRDEB-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DIRDEF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DOCADV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DOCAMA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DOCAMI-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DOCAMR-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DOCAPP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DOCARE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-DOCINF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-FINCAN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-FINSTA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-GENRAL-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-GESMES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-HANMOV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFCSUM-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTCCA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTDGN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTFCC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTIAG-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTMAN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTMBC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTMBF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTMBP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTMCS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTMIN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTRIN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTSAI-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTSTA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-IFTSTQ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-INSPRE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-INVOIC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-INVRPT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-ITRRPT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-JAPRES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-JINFDE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-JOBAPP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-JOBCON-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-JOBMOD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-JOBOFF-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-MEDPID-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-MEDREQ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-MEDRPT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-MEQPOS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-MOVINS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-MSCONS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-ORDCHG-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-ORDERS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-ORDRSP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-OSTENQ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-OSTRPT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-PARTIN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-PAXLST-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-PAYDUC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-PAYEXT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-PAYMUL-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-PAYORD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-PRICAT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-PRODAT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-PRODEX-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-PROINQ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-PRPAID-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-QALITY-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-QUOTES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-RDRMES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-REBORD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-RECADV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-RECALC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-RECECO-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-RECLAM-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-REMADV-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-REPREM-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-REQDOC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-REQOTE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-RESETT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-RESMSG-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-RETACC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-SAFHAZ-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-SANCRT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-SLSFCT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-SLSRPT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-SSIMOD-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-SSRECH-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-SSREGW-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-STATAC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-SUPCOT-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-SUPMAN-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-SUPRES-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-TANSTA-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-VATDEC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-VESDEP-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-WASDIS-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-WKGRDC-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact/D97A/D97A-WKGRRE-bindingconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unedifact-converter/src/test/java/EditfactTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/karaf-edi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/karaf-edi/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/karaf-edi/src/routes/edi-routes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/karaf-edi/src/routes/edi-routes.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unedifact-converter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unedifact-converter/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/FactoryCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/FactoryCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/unEdifact2Xml/UnEDIfact2XmlConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/unEdifact2Xml/UnEDIfact2XmlConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/main/EdifactConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/main/EdifactConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unedifact-converter/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unedifact-converter/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unedifact-converter/src/test/java/EditfactTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unedifact-converter/src/test/java/EditfactTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/unedifact-converter/target/" />
     <ignored path="$PROJECT_DIR$/karaf-branding/target/" />
@@ -359,36 +20,175 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/main/EdifactConverter.java">
+        <entry file="file://$PROJECT_DIR$/karaf-edi/src/routes/edi-routes.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1160">
-              <caret line="67" column="48" selection-start-line="67" selection-start-column="48" selection-end-line="67" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="56" column="54" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/resources/logback.xml">
+        <entry file="file://$PROJECT_DIR$/karaf-edi/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+            <state relative-caret-position="5882">
+              <caret line="625" column="39" selection-start-line="625" selection-start-column="39" selection-end-line="625" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unedifact-converter/src/test/java/EditfactTest.java">
+        <entry file="file://$PROJECT_DIR$/unedifact-converter/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="340">
+                <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/karaf-edi/src/main/filtered-resources/mescedia.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/xml2unEdifact/Xml2UnEDIfactProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="638">
+              <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/FactoryCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2182">
+              <caret line="26" selection-start-line="26" selection-end-line="32" selection-end-column="59" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#4367#4457#0" expanded="true" />
+                <element signature="e#4495#4531#0" expanded="true" />
+                <element signature="e#4367#4457#0" expanded="true" />
+                <element signature="e#4463#4553#0" expanded="true" />
+                <element signature="e#4591#4627#0" expanded="true" />
+                <element signature="e#4463#4553#0" expanded="true" />
+                <element signature="e#4559#4649#0" expanded="true" />
+                <element signature="e#4687#4723#0" expanded="true" />
+                <element signature="e#4559#4649#0" expanded="true" />
+                <element signature="e#4655#4745#0" expanded="true" />
+                <element signature="e#4783#4819#0" expanded="true" />
+                <element signature="e#4655#4745#0" expanded="true" />
+                <element signature="e#4751#4841#0" expanded="true" />
+                <element signature="e#4879#4915#0" expanded="true" />
+                <element signature="e#4751#4841#0" expanded="true" />
+                <element signature="e#4847#4937#0" expanded="true" />
+                <element signature="e#4975#5011#0" expanded="true" />
+                <element signature="e#4847#4937#0" expanded="true" />
+                <element signature="e#4943#5033#0" expanded="true" />
+                <element signature="e#5071#5107#0" expanded="true" />
+                <element signature="e#4943#5033#0" expanded="true" />
+                <element signature="e#5135#5225#0" expanded="true" />
+                <element signature="e#5277#5313#0" expanded="true" />
+                <element signature="e#5135#5225#0" expanded="true" />
+                <element signature="e#5231#5321#0" expanded="true" />
+                <element signature="e#5373#5409#0" expanded="true" />
+                <element signature="e#5231#5321#0" expanded="true" />
+                <element signature="e#5327#5417#0" expanded="true" />
+                <element signature="e#5469#5505#0" expanded="true" />
+                <element signature="e#5327#5417#0" expanded="true" />
+                <element signature="e#5423#5513#0" expanded="true" />
+                <element signature="e#5565#5601#0" expanded="true" />
+                <element signature="e#5423#5513#0" expanded="true" />
+                <element signature="e#5519#5609#0" expanded="true" />
+                <element signature="e#5661#5697#0" expanded="true" />
+                <element signature="e#5519#5609#0" expanded="true" />
+                <element signature="e#5615#5705#0" expanded="true" />
+                <element signature="e#5757#5793#0" expanded="true" />
+                <element signature="e#5615#5705#0" expanded="true" />
+                <element signature="e#5711#5801#0" expanded="true" />
+                <element signature="e#5853#5889#0" expanded="true" />
+                <element signature="e#5711#5801#0" expanded="true" />
+                <element signature="e#5807#5897#0" expanded="true" />
+                <element signature="e#5949#5985#0" expanded="true" />
+                <element signature="e#5807#5897#0" expanded="true" />
+                <element signature="e#5903#5993#0" expanded="true" />
+                <element signature="e#6045#6081#0" expanded="true" />
+                <element signature="e#5903#5993#0" expanded="true" />
+                <element signature="e#5999#6089#0" expanded="true" />
+                <element signature="e#6141#6177#0" expanded="true" />
+                <element signature="e#5999#6089#0" expanded="true" />
+                <element signature="e#6095#6185#0" expanded="true" />
+                <element signature="e#6237#6273#0" expanded="true" />
+                <element signature="e#6095#6185#0" expanded="true" />
+                <element signature="e#6191#6281#0" expanded="true" />
+                <element signature="e#6333#6369#0" expanded="true" />
+                <element signature="e#6191#6281#0" expanded="true" />
+                <element signature="e#6287#6377#0" expanded="true" />
+                <element signature="e#6429#6465#0" expanded="true" />
+                <element signature="e#6287#6377#0" expanded="true" />
+                <element signature="e#6383#6473#0" expanded="true" />
+                <element signature="e#6525#6561#0" expanded="true" />
+                <element signature="e#6383#6473#0" expanded="true" />
+                <element signature="e#6575#6665#0" expanded="true" />
+                <element signature="e#6745#6781#0" expanded="true" />
+                <element signature="e#6575#6665#0" expanded="true" />
+                <element signature="e#6671#6761#0" expanded="true" />
+                <element signature="e#6841#6877#0" expanded="true" />
+                <element signature="e#6671#6761#0" expanded="true" />
+                <element signature="e#6767#6857#0" expanded="true" />
+                <element signature="e#6937#6973#0" expanded="true" />
+                <element signature="e#6767#6857#0" expanded="true" />
+                <element signature="e#6863#6953#0" expanded="true" />
+                <element signature="e#7033#7069#0" expanded="true" />
+                <element signature="e#6863#6953#0" expanded="true" />
+                <element signature="e#6959#7049#0" expanded="true" />
+                <element signature="e#7129#7165#0" expanded="true" />
+                <element signature="e#6959#7049#0" expanded="true" />
+                <element signature="e#7151#7241#0" expanded="true" />
+                <element signature="e#7331#7367#0" expanded="true" />
+                <element signature="e#7151#7241#0" expanded="true" />
+                <element signature="e#7247#7337#0" expanded="true" />
+                <element signature="e#7427#7463#0" expanded="true" />
+                <element signature="e#7247#7337#0" expanded="true" />
+                <element signature="e#7343#7433#0" expanded="true" />
+                <element signature="e#7523#7559#0" expanded="true" />
+                <element signature="e#7343#7433#0" expanded="true" />
+                <element signature="e#7439#7529#0" expanded="true" />
+                <element signature="e#7619#7655#0" expanded="true" />
+                <element signature="e#7439#7529#0" expanded="true" />
+                <element signature="e#7535#7625#0" expanded="true" />
+                <element signature="e#7715#7751#0" expanded="true" />
+                <element signature="e#7535#7625#0" expanded="true" />
+                <element signature="e#7631#7721#0" expanded="true" />
+                <element signature="e#7811#7847#0" expanded="true" />
+                <element signature="e#7631#7721#0" expanded="true" />
+                <element signature="e#7727#7817#0" expanded="true" />
+                <element signature="e#7907#7943#0" expanded="true" />
+                <element signature="e#7727#7817#0" expanded="true" />
+                <element signature="e#7823#7913#0" expanded="true" />
+                <element signature="e#8003#8039#0" expanded="true" />
+                <element signature="e#7823#7913#0" expanded="true" />
+                <element signature="e#7919#8009#0" expanded="true" />
+                <element signature="e#8099#8135#0" expanded="true" />
+                <element signature="e#7919#8009#0" expanded="true" />
+                <element signature="e#8015#8105#0" expanded="true" />
+                <element signature="e#8195#8231#0" expanded="true" />
+                <element signature="e#8015#8105#0" expanded="true" />
+                <element signature="e#8111#8201#0" expanded="true" />
+                <element signature="e#8291#8327#0" expanded="true" />
+                <element signature="e#8111#8201#0" expanded="true" />
+                <element signature="e#8207#8297#0" expanded="true" />
+                <element signature="e#8387#8423#0" expanded="true" />
+                <element signature="e#8207#8297#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -397,51 +197,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unedifact-converter/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14020">
-              <caret line="701" column="55" selection-start-line="701" selection-start-column="55" selection-end-line="701" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/unedifact-converter/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="640">
-                <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="1920">
+              <caret line="96" selection-start-line="96" selection-end-line="96" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/karaf-edi/src/main/filtered-resources/setenv">
+        <entry file="file://$PROJECT_DIR$/karaf-edi/src/features/mescedia-features.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1000">
-              <caret line="50" column="63" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
+            <state relative-caret-position="1915">
+              <caret line="124" column="50" selection-start-line="124" selection-start-column="50" selection-end-line="124" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/assembly/assembly.xml">
+        <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/FactoryCacheItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/xml2unEdifact/Xml2UnEDIfactConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6140">
-              <caret line="370" selection-start-line="370" selection-end-line="370" />
-              <folding>
-                <element signature="e#0#24324#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="160">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -462,6 +237,10 @@
       <find>_interchgControlRef</find>
       <find>log4j</find>
       <find>binding</find>
+      <find>zip</find>
+      <find>profile</find>
+      <find>xml2unedifact</find>
+      <find>body</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -474,15 +253,18 @@
         <option value="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/unEdifact2Xml/UnEDIfact2XmlConverter.java" />
         <option value="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/main/EdifactConvertor.java" />
         <option value="$PROJECT_DIR$/unedifact-converter/src/main/resources/meta-inf/manifest.mf" />
-        <option value="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/FactoryCache.java" />
         <option value="$PROJECT_DIR$/unedifact-converter/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/unedifact-converter/run.sh" />
         <option value="$PROJECT_DIR$/unedifact-converter/src/main/assembly/assembly.xml" />
-        <option value="$PROJECT_DIR$/unedifact-converter/pom.xml" />
-        <option value="$PROJECT_DIR$/unedifact-converter/src/test/java/EditfactTest.java" />
-        <option value="$PROJECT_DIR$/unedifact-converter/src/main/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/main/EdifactConverter.java" />
         <option value="$PROJECT_DIR$/unedifact-converter/readme.md" />
+        <option value="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/main/EdifactConverter.java" />
+        <option value="$PROJECT_DIR$/unedifact-converter/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/unedifact-converter/src/test/java/EditfactTest.java" />
+        <option value="$PROJECT_DIR$/karaf/edi-routes.xml" />
+        <option value="$PROJECT_DIR$/karaf-edi/pom.xml" />
+        <option value="$PROJECT_DIR$/karaf-edi/src/routes/edi-routes.xml" />
+        <option value="$PROJECT_DIR$/unedifact-converter/pom.xml" />
+        <option value="$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/FactoryCache.java" />
       </list>
     </option>
   </component>
@@ -754,10 +536,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-569" />
-    <option name="y" value="-1417" />
-    <option name="width" value="2176" />
-    <option name="height" value="1400" />
+    <option name="x" value="-535" />
+    <option name="y" value="-1280" />
+    <option name="width" value="1713" />
+    <option name="height" value="1185" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -767,7 +549,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -778,6 +560,58 @@
             <path>
               <item name="main" type="b2602c69:ProjectViewProjectNode" />
               <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="karaf-branding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="karaf-edi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="karaf-edi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="karaf-edi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="karaf-edi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="karaf-edi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="filtered-resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="karaf-edi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mapping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="karaf-edi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
               <item name="unedifact-converter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -807,28 +641,34 @@
               <item name="unedifact-converter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
-              <item name="unedifact-converter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
-              <item name="unedifact-converter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="converter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="unedifact-converter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="converter" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mescedia-EDI-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="unedifact-converter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="converter" type="462c0819:PsiDirectoryNode" />
+              <item name="xml2unEdifact" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -838,6 +678,10 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554802348473" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/unedifact-converter/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -846,7 +690,12 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/unedifact-converter/src/main/resources/org/mescedia/edi/bindingconfigs/unedifact" />
+      <recent name="$PROJECT_DIR$/unedifact-converter/src/main/resources" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/unedifact-converter/src" />
       <recent name="$PROJECT_DIR$/unedifact-converter/src/main/resources" />
     </key>
   </component>
@@ -935,8 +784,20 @@
       <workItem from="1554771513219" duration="5923000" />
       <workItem from="1554778655533" duration="17700000" />
       <workItem from="1554800311865" duration="1878000" />
-      <workItem from="1554872963808" duration="659000" />
+      <workItem from="1554872963808" duration="1431000" />
+      <workItem from="1554881013693" duration="1083000" />
+      <workItem from="1554882166785" duration="5292000" />
+      <workItem from="1554892529283" duration="67000" />
+      <workItem from="1554894907457" duration="1855000" />
     </task>
+    <task id="LOCAL-00001" summary="针对MX项目作了修改">
+      <created>1554873659653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554873659653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -972,19 +833,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29361000" />
+    <option name="totallyTimeSpent" value="38430000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-569" y="-1417" width="2176" height="1400" extended-state="0" />
+    <frame x="-535" y="-1280" width="1713" height="1185" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22071227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28485936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4996109" />
@@ -994,9 +856,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26070037" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.13644859" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32840466" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1008,9 +871,46 @@
       <window_info anchor="right" id="Json Parser" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.29820052" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.4996109" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.44202334" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.16008772" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32840466" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3298969" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Json Parser" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="针对MX项目作了修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="针对MX项目作了修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1023,19 +923,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/main/EdifactConverter.java</url>
-          <line>91</line>
+          <line>90</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/main/EdifactConverter.java</url>
-          <line>89</line>
+          <line>88</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/main/EdifactConverter.java</url>
-          <line>88</line>
+          <line>87</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
@@ -1043,13 +943,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/unEdifact2Xml/UnEDIfact2XmlProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/karaf-branding/src/main/resources/org/apache/karaf/branding/branding.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -1062,29 +955,10 @@
         <state relative-caret-position="-428" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/karaf-edi/src/testfiles/ORDERS.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/nio/file/Files.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karaf-edi/src/mapping/ORDERS_CSV_XML.smooks-config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karaf-edi/src/main/filtered-resources/org.apache.karaf.shell.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karaf-edi/src/main/filtered-resources/org.ops4j.pax.logging.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karaf-edi/src/features/mescedia-features.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -1099,52 +973,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karaf-edi/src/main/filtered-resources/mescedia.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karaf-edi/src/mapping/ORDERS_CSV_XML.smooks-map.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/FactoryCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="55" column="58" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
-          <folding>
-            <element signature="e#5185#5221#0" expanded="true" />
-            <element signature="e#7190#7280#0" expanded="true" />
-            <element signature="e#7244#7280#0" expanded="true" />
-            <element signature="e#7190#7280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/resources/log4j.properties" />
-    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/unEdifact2Xml/UnEDIfact2XmlConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2009#2029#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/main/EdifactConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1160">
-          <caret line="67" column="48" selection-start-line="67" selection-start-column="48" selection-end-line="67" selection-end-column="48" />
+        <state relative-caret-position="681">
+          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1153,32 +986,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        <state relative-caret-position="460">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/unedifact-converter/src/test/java/EditfactTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unedifact-converter/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14020">
-          <caret line="701" column="55" selection-start-line="701" selection-start-column="55" selection-end-line="701" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karaf-edi/src/main/filtered-resources/setenv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="50" column="63" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -1191,27 +1010,359 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/xml2unEdifact/Xml2UnEDIfactConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6140">
+        <state relative-caret-position="559">
           <caret line="370" selection-start-line="370" selection-end-line="370" />
           <folding>
             <element signature="e#0#24324#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#15693#15719#0" expanded="true" />
+            <element signature="e#15693#15735#0" expanded="true" />
+            <element signature="e#15693#15814#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf-edi/src/main/filtered-resources/setenv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="50" column="63" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf-edi/src/main/filtered-resources/org.ops4j.pax.logging.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/pom.xml.bak" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="437" column="6" selection-start-line="437" selection-start-column="6" selection-end-line="437" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf/edi-routes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="167" column="45" selection-start-line="167" selection-start-column="45" selection-end-line="167" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf-edi/src/mapping/ORDERS_CSV_XML.smooks-map.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf-edi/src/mapping/ORDERS_CSV_XML.smooks-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf-edi/src/mapping/INVOIC_XML_SMOOKSXML_V01.xslt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-812">
+          <caret line="210" column="48" selection-start-line="210" selection-start-column="48" selection-end-line="210" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf-edi/src/main/filtered-resources/activemq.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf-edi/src/main/filtered-resources/org.apache.karaf.shell.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/MessageVersionAnalyser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/SmooksReaderCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/SegmentCountSetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-560">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/camel/camel-core/2.16.4/camel-core-2.16.4.jar!/org/apache/camel/Processor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf-edi/src/testfiles/ORDERS.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/unEdifact2Xml/UnEDIfact2XmlConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2009#2029#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/SmooksConfigCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/SmooksConfigCacheItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/SmooksReaderCacheItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/UnEDIfactVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/SubStringResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/StackTrace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/unEdifact2Xml/UnEDIfact2XmlProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+          <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/FactoryCacheItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf-edi/src/main/filtered-resources/mescedia.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/xml2unEdifact/Xml2UnEDIfactProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf-edi/src/features/mescedia-features.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1915">
+          <caret line="124" column="50" selection-start-line="124" selection-start-column="50" selection-end-line="124" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf-edi/src/routes/edi-routes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="56" column="54" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaf-edi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5882">
+          <caret line="625" column="39" selection-start-line="625" selection-start-column="39" selection-end-line="625" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/unedifact-converter/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="340">
+            <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="640">
-            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          </first_editor>
-          <second_editor />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unedifact-converter/src/main/java/org/mescedia/edi/converter/helper/FactoryCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2182">
+          <caret line="26" selection-start-line="26" selection-end-line="32" selection-end-column="59" />
+          <folding>
+            <element signature="e#4367#4457#0" expanded="true" />
+            <element signature="e#4495#4531#0" expanded="true" />
+            <element signature="e#4367#4457#0" expanded="true" />
+            <element signature="e#4463#4553#0" expanded="true" />
+            <element signature="e#4591#4627#0" expanded="true" />
+            <element signature="e#4463#4553#0" expanded="true" />
+            <element signature="e#4559#4649#0" expanded="true" />
+            <element signature="e#4687#4723#0" expanded="true" />
+            <element signature="e#4559#4649#0" expanded="true" />
+            <element signature="e#4655#4745#0" expanded="true" />
+            <element signature="e#4783#4819#0" expanded="true" />
+            <element signature="e#4655#4745#0" expanded="true" />
+            <element signature="e#4751#4841#0" expanded="true" />
+            <element signature="e#4879#4915#0" expanded="true" />
+            <element signature="e#4751#4841#0" expanded="true" />
+            <element signature="e#4847#4937#0" expanded="true" />
+            <element signature="e#4975#5011#0" expanded="true" />
+            <element signature="e#4847#4937#0" expanded="true" />
+            <element signature="e#4943#5033#0" expanded="true" />
+            <element signature="e#5071#5107#0" expanded="true" />
+            <element signature="e#4943#5033#0" expanded="true" />
+            <element signature="e#5135#5225#0" expanded="true" />
+            <element signature="e#5277#5313#0" expanded="true" />
+            <element signature="e#5135#5225#0" expanded="true" />
+            <element signature="e#5231#5321#0" expanded="true" />
+            <element signature="e#5373#5409#0" expanded="true" />
+            <element signature="e#5231#5321#0" expanded="true" />
+            <element signature="e#5327#5417#0" expanded="true" />
+            <element signature="e#5469#5505#0" expanded="true" />
+            <element signature="e#5327#5417#0" expanded="true" />
+            <element signature="e#5423#5513#0" expanded="true" />
+            <element signature="e#5565#5601#0" expanded="true" />
+            <element signature="e#5423#5513#0" expanded="true" />
+            <element signature="e#5519#5609#0" expanded="true" />
+            <element signature="e#5661#5697#0" expanded="true" />
+            <element signature="e#5519#5609#0" expanded="true" />
+            <element signature="e#5615#5705#0" expanded="true" />
+            <element signature="e#5757#5793#0" expanded="true" />
+            <element signature="e#5615#5705#0" expanded="true" />
+            <element signature="e#5711#5801#0" expanded="true" />
+            <element signature="e#5853#5889#0" expanded="true" />
+            <element signature="e#5711#5801#0" expanded="true" />
+            <element signature="e#5807#5897#0" expanded="true" />
+            <element signature="e#5949#5985#0" expanded="true" />
+            <element signature="e#5807#5897#0" expanded="true" />
+            <element signature="e#5903#5993#0" expanded="true" />
+            <element signature="e#6045#6081#0" expanded="true" />
+            <element signature="e#5903#5993#0" expanded="true" />
+            <element signature="e#5999#6089#0" expanded="true" />
+            <element signature="e#6141#6177#0" expanded="true" />
+            <element signature="e#5999#6089#0" expanded="true" />
+            <element signature="e#6095#6185#0" expanded="true" />
+            <element signature="e#6237#6273#0" expanded="true" />
+            <element signature="e#6095#6185#0" expanded="true" />
+            <element signature="e#6191#6281#0" expanded="true" />
+            <element signature="e#6333#6369#0" expanded="true" />
+            <element signature="e#6191#6281#0" expanded="true" />
+            <element signature="e#6287#6377#0" expanded="true" />
+            <element signature="e#6429#6465#0" expanded="true" />
+            <element signature="e#6287#6377#0" expanded="true" />
+            <element signature="e#6383#6473#0" expanded="true" />
+            <element signature="e#6525#6561#0" expanded="true" />
+            <element signature="e#6383#6473#0" expanded="true" />
+            <element signature="e#6575#6665#0" expanded="true" />
+            <element signature="e#6745#6781#0" expanded="true" />
+            <element signature="e#6575#6665#0" expanded="true" />
+            <element signature="e#6671#6761#0" expanded="true" />
+            <element signature="e#6841#6877#0" expanded="true" />
+            <element signature="e#6671#6761#0" expanded="true" />
+            <element signature="e#6767#6857#0" expanded="true" />
+            <element signature="e#6937#6973#0" expanded="true" />
+            <element signature="e#6767#6857#0" expanded="true" />
+            <element signature="e#6863#6953#0" expanded="true" />
+            <element signature="e#7033#7069#0" expanded="true" />
+            <element signature="e#6863#6953#0" expanded="true" />
+            <element signature="e#6959#7049#0" expanded="true" />
+            <element signature="e#7129#7165#0" expanded="true" />
+            <element signature="e#6959#7049#0" expanded="true" />
+            <element signature="e#7151#7241#0" expanded="true" />
+            <element signature="e#7331#7367#0" expanded="true" />
+            <element signature="e#7151#7241#0" expanded="true" />
+            <element signature="e#7247#7337#0" expanded="true" />
+            <element signature="e#7427#7463#0" expanded="true" />
+            <element signature="e#7247#7337#0" expanded="true" />
+            <element signature="e#7343#7433#0" expanded="true" />
+            <element signature="e#7523#7559#0" expanded="true" />
+            <element signature="e#7343#7433#0" expanded="true" />
+            <element signature="e#7439#7529#0" expanded="true" />
+            <element signature="e#7619#7655#0" expanded="true" />
+            <element signature="e#7439#7529#0" expanded="true" />
+            <element signature="e#7535#7625#0" expanded="true" />
+            <element signature="e#7715#7751#0" expanded="true" />
+            <element signature="e#7535#7625#0" expanded="true" />
+            <element signature="e#7631#7721#0" expanded="true" />
+            <element signature="e#7811#7847#0" expanded="true" />
+            <element signature="e#7631#7721#0" expanded="true" />
+            <element signature="e#7727#7817#0" expanded="true" />
+            <element signature="e#7907#7943#0" expanded="true" />
+            <element signature="e#7727#7817#0" expanded="true" />
+            <element signature="e#7823#7913#0" expanded="true" />
+            <element signature="e#8003#8039#0" expanded="true" />
+            <element signature="e#7823#7913#0" expanded="true" />
+            <element signature="e#7919#8009#0" expanded="true" />
+            <element signature="e#8099#8135#0" expanded="true" />
+            <element signature="e#7919#8009#0" expanded="true" />
+            <element signature="e#8015#8105#0" expanded="true" />
+            <element signature="e#8195#8231#0" expanded="true" />
+            <element signature="e#8015#8105#0" expanded="true" />
+            <element signature="e#8111#8201#0" expanded="true" />
+            <element signature="e#8291#8327#0" expanded="true" />
+            <element signature="e#8111#8201#0" expanded="true" />
+            <element signature="e#8207#8297#0" expanded="true" />
+            <element signature="e#8387#8423#0" expanded="true" />
+            <element signature="e#8207#8297#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
